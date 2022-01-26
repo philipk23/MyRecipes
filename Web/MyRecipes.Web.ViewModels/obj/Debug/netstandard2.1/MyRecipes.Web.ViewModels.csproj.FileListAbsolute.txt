@@ -1,0 +1,16 @@
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Web.ViewModels.deps.json
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Web.ViewModels.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Web.ViewModels.pdb
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Data.Common.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Data.Models.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Services.Mapping.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Data.Models.pdb
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Services.Mapping.pdb
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/bin/Debug/netstandard2.1/MyRecipes.Data.Common.pdb
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.csprojAssemblyReference.cache
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.csproj.CopyComplete
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.ViewModels/obj/Debug/netstandard2.1/MyRecipes.Web.ViewModels.pdb

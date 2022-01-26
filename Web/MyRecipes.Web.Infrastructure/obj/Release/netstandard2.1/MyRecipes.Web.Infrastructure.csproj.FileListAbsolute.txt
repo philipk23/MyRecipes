@@ -1,0 +1,8 @@
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/bin/Release/netstandard2.1/MyRecipes.Web.Infrastructure.deps.json
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/bin/Release/netstandard2.1/MyRecipes.Web.Infrastructure.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/bin/Release/netstandard2.1/MyRecipes.Web.Infrastructure.pdb
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/obj/Release/netstandard2.1/MyRecipes.Web.Infrastructure.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/obj/Release/netstandard2.1/MyRecipes.Web.Infrastructure.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/obj/Release/netstandard2.1/MyRecipes.Web.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/obj/Release/netstandard2.1/MyRecipes.Web.Infrastructure.dll
+/Users/fil/Projects/MyRecipes/Web/MyRecipes.Web.Infrastructure/obj/Release/netstandard2.1/MyRecipes.Web.Infrastructure.pdb

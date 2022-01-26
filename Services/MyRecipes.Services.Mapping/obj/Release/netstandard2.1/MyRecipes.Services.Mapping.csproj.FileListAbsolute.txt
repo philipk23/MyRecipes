@@ -1,0 +1,9 @@
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/bin/Release/netstandard2.1/MyRecipes.Services.Mapping.deps.json
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/bin/Release/netstandard2.1/MyRecipes.Services.Mapping.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/bin/Release/netstandard2.1/MyRecipes.Services.Mapping.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.csprojAssemblyReference.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Mapping/obj/Release/netstandard2.1/MyRecipes.Services.Mapping.pdb

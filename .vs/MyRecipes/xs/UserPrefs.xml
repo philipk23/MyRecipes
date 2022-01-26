@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyRecipes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MyRecipes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Web.MyRecipes.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/bin/Release/netstandard2.1/MyRecipes.Data.Common.deps.json
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/bin/Release/netstandard2.1/MyRecipes.Data.Common.dll
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/bin/Release/netstandard2.1/MyRecipes.Data.Common.pdb
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.csprojAssemblyReference.cache
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.dll
+/Users/fil/Projects/MyRecipes/Data/MyRecipes.Data.Common/obj/Release/netstandard2.1/MyRecipes.Data.Common.pdb

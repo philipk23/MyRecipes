@@ -1,0 +1,9 @@
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/bin/Debug/netstandard2.1/MyRecipes.Services.Messaging.deps.json
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/bin/Debug/netstandard2.1/MyRecipes.Services.Messaging.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/bin/Debug/netstandard2.1/MyRecipes.Services.Messaging.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.csprojAssemblyReference.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services.Messaging/obj/Debug/netstandard2.1/MyRecipes.Services.Messaging.pdb

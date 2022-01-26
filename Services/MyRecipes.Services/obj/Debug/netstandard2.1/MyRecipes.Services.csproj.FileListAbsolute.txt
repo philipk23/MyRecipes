@@ -1,0 +1,14 @@
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Services.deps.json
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Services.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Services.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.AssemblyInfoInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.AssemblyInfo.cs
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.csproj.CoreCompileInputs.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.csprojAssemblyReference.cache
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Data.Common.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Data.Models.dll
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Data.Models.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/bin/Debug/netstandard2.1/MyRecipes.Data.Common.pdb
+/Users/fil/Projects/MyRecipes/Services/MyRecipes.Services/obj/Debug/netstandard2.1/MyRecipes.Services.csproj.CopyComplete

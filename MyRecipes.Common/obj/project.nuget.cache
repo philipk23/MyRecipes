@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDnVfNXdZOw6aahgHFqa2+qSTuYNB7CHHrObwJv7ADPzzb6f37gebT2GhfzoBRxu30pFnfB1PbN7Ila/3qybyA==",
+  "success": true,
+  "projectFilePath": "/Users/fil/MyRecipes/MyRecipes.Common/MyRecipes.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/fil/.nuget/packages/stylecop.analyzers/1.2.0-beta.312/stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "/Users/fil/.nuget/packages/stylecop.analyzers.unstable/1.2.0.312/stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

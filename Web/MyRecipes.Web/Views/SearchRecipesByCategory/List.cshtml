@@ -1,0 +1,19 @@
+﻿@model MyRecipes.Web.ViewModels.SearchRecipesByCategory.SearchByCategoryViewModel
+@{
+    this.ViewData["Title"] = "Recipes by category";
+}
+<h1>@this.ViewData["Title"]</h1>
+<hr />
+<div class="row">
+    @foreach (var recipe in Model.FoundRecipes)
+    {
+        <div class="card col-md-3">
+            <img class="card-img-top" src="@recipe.ImageUrl" alt="@recipe.Name" />
+            <div class="card-body">
+                <h5 class="card-title">@recipe.Name</h5>
+                <p class="card-text">@recipe.CategoryName</p>
+                <a asp-controller="Recipes" asp-action="ById" asp-route-id="@recipe.Id" class="btn btn-success">Go to recipe</a>
+            </div>
+        </div>
+    }
+</div>

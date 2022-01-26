@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUUdNo+gGa/GKUHuUsZXLs9j43cgsnyUcS8dQI6iL/abD/zCp71v6I88mDt/0NAXLW6M7E9w3SNYZKl8nZ6Mpg==",
+  "success": true,
+  "projectFilePath": "/Users/fil/MyRecipes/Web/MyRecipes.Web.Infrastructure/MyRecipes.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/fil/.nuget/packages/stylecop.analyzers/1.2.0-beta.312/stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "/Users/fil/.nuget/packages/stylecop.analyzers.unstable/1.2.0.312/stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
